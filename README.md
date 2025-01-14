@@ -44,9 +44,9 @@
 - 域名: ['https://xmxfx.xyz'] 
 - 标题:2025年1月14日发布免费V2Ray节点信息！4个订阅链接，10个高速免费节点，支持Clash、V2rayN等常用软件，体验科学上网的全新方式，轻松获得高质量的代理，享受免费上网服务，稳定快速！Shadowsocks，Trojan机场，科学上网翻墙免费节点，免费VPN，免费翻墙服务，免费代理服务器，永久免费代理服务  |  小猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=cf7846fd8c0c5d53f995dec6aa400546
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=50f009536bcdd37e1564526ef8afa491
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=983c36c2ba54ff91dd619f05d0b16755
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5ea69c9b4529d960d5d9da217bf3d4cd
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=983c36c2ba54ff91dd619f05d0b16755 
-- 更新时间: 2025年01月14日14点39分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=50f009536bcdd37e1564526ef8afa491
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=cf7846fd8c0c5d53f995dec6aa400546 
+- 更新时间: 2025年01月14日14点48分 
 结束
