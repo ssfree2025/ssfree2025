@@ -45,8 +45,8 @@
 - 标题:2025年1月27日发布免费V2Ray节点信息！4个订阅链接，10个高速免费节点，支持Clash、V2rayN等常用软件，体验科学上网的全新方式，轻松获得高质量的代理，享受免费上网服务，稳定快速！Shadowsocks，Trojan机场，科学上网翻墙免费节点，免费VPN，免费翻墙服务，免费代理服务器，永久免费代理服务  |  小猫想分享 
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=e4082ff0a4172701cf37139e1b48185b
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=9ceaf4be7648929159bf34ee9e4b2913
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=a914c8aa034cb866020fe95be15aa5a2
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=9ceaf4be7648929159bf34ee9e4b2913
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=fcd317ae6a25cf2c0c2e480f8d5793a3 
-- 更新时间: 2025年01月28日22点51分 
+- 更新时间: 2025年01月28日23点30分 
 结束
